@@ -1,2 +1,2 @@
-# Kubernetes_Snippets
+# Kubernetes Snippets
 Notes while playing with K8
